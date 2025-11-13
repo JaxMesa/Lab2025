@@ -1,0 +1,61 @@
+{
+    "myAdress": "('file:///C:/Users/nikit/OneDrive/Desktop/Lab/data.json')",
+    "numbers": [1, 2, 3, 4, 5],
+    "letters": ["a", "b", "c", "d", "e"],
+    "boolean": true,
+    "nested": {
+        "key1": "value1",
+        "key2": "value2"
+    },
+    "null_value": null,
+    "symbol": "@",
+    "float_number": 3.14,
+    "empty_array": [],
+    "empty_object": {}, 
+    "mixed_array": [1, "two", null, false, {"inner_key": "inner_value"}],
+    "unicode_string": "こんにちは",
+    "large_number": 12345678901234567890,
+    "date_string": "2024-06-15T12:34:56Z",
+    "special_characters": "!@#$%^&*",
+    "nested_array": [[1, 2], [3, 4], [5, 6]],
+    "nested_object": {
+        "level1": {
+            "level2": {
+                "level3": "deep_value"
+            }
+        }
+    },
+    "escaped_string": "This is a string with a newline\\ncharacter.",
+    "boolean_false": false,
+    "zero_value": 0,
+    "positive_infinity": "Infinity",
+    "negative_infinity": "-Infinity",
+    "not_a_number": "NaN",
+    "hexadecimal_number": "0x1A3F",
+    "octal_number": "0o755",
+    "binary_number": "0b101010",
+    "scientific_notation": 1.23e+10,
+    "long_string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "complex_object": {
+        "array_in_object": [ {"id": 1}, {"id": 2}, {"id": 3} ],
+        "object_in_array": [ {"nested_obj": {"key": "value"}} ]
+    },
+    "whitespace_string": "    ",
+    "empty_string": "",
+    "html_string": "<div>Hello World</div>",
+    "json_string": "{\"key\": \"value\"}",
+    "url_string": "https://www.example.com",
+    "string_with_tabs": "Column1\tColumn2\tColumn3",
+    "string_with_quotes": "He said",
+    "multi_line_string": "Line1\nLine2\nLine3",
+    "string_with_backslash": "This is a backslash: \\",
+    "string_with_special_unicode": "Emoji: 😊, Accents: é, ñ, ü",
+    "string_with_mixed_content": "Text123!@#",
+    "string_with_leading_trailing_spaces": "   Trim me   ",
+    "string_with_repeated_characters": "aaaaabbbbbccccc",
+    "string_with_alternating_characters": "ababababab",
+    "string_with_numbers_and_letters": "abc123xyz",
+    "valid_json_string": "{\"valid\": true, \"count\": 10}",
+    "invalid_json_string": "{invalid: true, count: 10}",
+    "variable_example": "var_name_123"
+}

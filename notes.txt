@@ -1,0 +1,8 @@
+code suggestions if wanted: 
+
+
+    Open Settings by Ctrl + ,
+
+    Search for inlineSuggest.enabled
+
+    Set it to false
